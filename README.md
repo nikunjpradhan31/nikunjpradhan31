@@ -12,7 +12,7 @@ I am looking for a Software Engineering Internship that will provide me with ind
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikunjpradhan31&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjpradhan31&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Hour
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
