@@ -1,7 +1,7 @@
 # 💫 About Me:
 - I am looking for a Software Engineering Internship that will provide me with industry skills such as problem-solving, programming proficiency in algorithms, and collaborations with others.
-- I am developing an application for Linear Algebra, displaying a model of vector spaces, and a calculator for matrices and matrix operations
-- Learning Data Structures (Binary Trees and Linked Lists) and Databases and File Systems with SQL
+- I am developing a web application for secure web messaging using Node.js, FireBase, and React
+- Learning Data Structures (Queues and Hashmaps) and Databases and File Systems with SQL and Relational Databases
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikunj-pradhan/) 
