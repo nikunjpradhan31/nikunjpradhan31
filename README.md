@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikunj-pradhan/) 
 
 # 💻 Tech Stack:
-**C++** | **Python** | **JavaScript/HTML/CSS** | **Bash** | **MATLAB** | **Java** | **Node.js** | **React** | **Mongoose** | **PostgreSQL** | **Firebase** | **Pandas** | **NumPy** | **Socket.IO** | **Git** | **AWS** | **Linux (Debian & Ubuntu)**
+C++ | Python | JavaScript/HTML/CSS | Bash | MATLAB | Java | Node.js | React | Mongoose | PostgreSQL | FireBase | Pandas | Num.py | Socket.IO | Git | AWS | Linux (Debian & Ubuntu)
 ---
 [![](https://visitcount.itsvg.in/api?id=nikunjpradhan31&icon=0&color=0)](https://visitcount.itsvg.in)
 
