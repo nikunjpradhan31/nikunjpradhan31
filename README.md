@@ -50,14 +50,14 @@
 
 ## 🚀 Projects
 
-### 🎬 [**Himalayan Hut**](https://github.com/nikunjpradhan31/himalayan-hut)
+### 🎬 [**Himalayan Hut**](https://github.com/nikunjpradhan31/TheHimalayanHut)
 *FastAPI · React · PostgreSQL · MinIO · Scikit-learn · Tailwind CSS*  
 - Full-stack movie watchlist app with **2FA login**, user ratings, and sharing features  
 - Built **content-based** and **collaborative filtering** recommendation systems  
 - Integrated **MinIO** for secure and scalable media storage  
 - Cached per-user recommendations to reduce compute load and improve UX
 
-### 💬 [**RhinoChat**](https://github.com/nikunjpradhan31/rhinochat)
+### 💬 [**RhinoChat**](https://github.com/nikunjpradhan31/Rhino)
 *React · Node.js · Socket.IO · MongoDB (Mongoose)*  
 - Real-time chat app with secure auth, **group messaging**, and **file sharing via GridFS**  
 - Developed custom backend using **Express** and **WebSockets** for responsive messaging  
