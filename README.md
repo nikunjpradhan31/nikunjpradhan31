@@ -24,8 +24,6 @@ Object Detection & Classification · Content-Based & Collaborative Filtering · 
 **Other Tools:**
 Git · Docker · AWS (S3, EC2) · Azure Pipelines · WebSockets · Linux · K3S · Nginx · 2FA Auth · API Development · CLI Tools
 
-**Languages Spoken:** English · Nepali
-
 ---
 
 ## Experience
@@ -107,5 +105,3 @@ Visit 👉 **[nikunjpradhan.com](https://nikunjpradhan.com)**
 [![GitHub](https://img.shields.io/badge/GitHub-nikunjpradhan31-181717?style=flat&logo=github&logoColor=white)](https://github.com/nikunjpradhan31)
 
 ---
-
-> *"Let's build something amazing together — systems, solutions, or just some good code."* 🚀
