@@ -1,27 +1,28 @@
 # Hello there, I'm Nikunj Pradhan!
 
  **Master's & Bachelor's in Computer Science** @ Missouri University of Science and Technology 
- Currently a **Data Science Intern @ Quest Analytics** | Former **Data Science Intern @ Hunter Engineering**
- Visit my portfolio: [nikunjpradhan.com](https://nikunjpradhan.com)
+
+ 
+ #### Visit my portfolio: [nikunjpradhan.com](https://nikunjpradhan.com)
 
 ---
 
 ## Tech Stack & Skills
 
 **Languages:**
-Python · C++ · JavaScript · Java · SQL
+Python · Java · SQL C++ · JavaScript
 
 **Frameworks & Libraries:**
-FastAPI · React · Node.js · PyTorch · Scikit-learn · NumPy · Pandas · Apache Spark · Apache Kafka
+FastAPI · SpringBoot · React · Apache Spark · Apache Kafka
 
 **Databases & Storage:**
 PostgreSQL · Microsoft SQL Server · Pgvector · MongoDB · MinIO
 
 **Machine Learning & Tools:**
-PyTorch Lightning · LSTMs · ViTs · CNNs · Recommendation Systems · NLP · MLOps
+PyTorch (& Lightning) · Scikit-learn · XGBoost · LangChain · Transformers 
 
 **Other Tools:**
-Git · Docker · Kubernetes · AWS · WebSockets · Linux · Nginx · 2FA Auth · API Development · CLI Tools
+Git · Docker · Kubernetes · AWS(Lambda, SQS, API Gateway) · Linux · Nginx · Databricks
 
 ---
 
@@ -29,14 +30,11 @@ Git · Docker · Kubernetes · AWS · WebSockets · Linux · Nginx · 2FA Auth �
 
 ### **Data Science Intern** — *Quest Analytics*
 
-### **Research Assistant - LLMOps & Systems** — *Missouri University of Science and Technology*
+### **Graduate Research Assistant - LLMOps & Systems** — *Missouri University of Science and Technology*
 
-
-### **Data Science Intern** — *Hunter Engineering Company*
-
+### **ML Software Engineer Intern** — *Hunter Engineering Company*
 
 ### **Software Engineer** — *Tally Receipts*
-
 
 ### **Research Assistant - Computer Vision** — *Missouri University of Science and Technology*
 
